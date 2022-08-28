@@ -1,3 +1,4 @@
+/*eslint-disable no-eval */
 import React, {useState} from "react";
 import './layout.css';
 import logo from  '../assets/img/mylogo.png';
